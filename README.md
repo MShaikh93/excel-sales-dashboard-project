@@ -1,4 +1,11 @@
 📊 Excel Sales Dashboard Project
+
+# 📊 Excel Sales Dashboard Project
+
+![Dashboard Preview](Dashboard_preview.png)
+
+## Project Overview
+
 Project Overview
 
 This project demonstrates the creation of an interactive Executive Sales Dashboard in Microsoft Excel using the Superstore Sales Dataset. The dashboard is designed to help business users monitor sales performance, profitability, customer trends, and regional performance through interactive visualizations and KPI reporting.
